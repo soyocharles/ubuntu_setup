@@ -1,3 +1,4 @@
-# zsh_setup
-
-https://www.harveynorman.com.au/samsung-galaxy-j2-pro-16gb-black.html
+# ubuntu setup
+sudo apt-get update
+sudo apt-get install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
